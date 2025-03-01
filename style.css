@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(193, 255, 255);
+    text-align: center;
+    border-radius: 40px;
+}
+
+nav {
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(195, 140, 73);
+    background-color: aquamarine;
+    border-radius: 40px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(0, 135, 135, 0.48);
+    border-radius: 40px;
+}
+
+.p1 {
+    background-color: rgb(203, 255, 151);
+}
